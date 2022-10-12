@@ -22,7 +22,7 @@ Research Interests
 
 News
 ======
- - **[Sep. 2022]** Became a visiting PhD of Nanyang Technological University, supervised by [Prof. Tianwie Zhang](https://personal.ntu.edu.sg/tianwei.zhang/index.html).
+ - **[Sep. 2022]** Became a visiting PhD of Nanyang Technological University, supervised by [Prof. Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/index.html).
  - **[Jul. 2022]** One paper accepted by **the 27th European Symposium on Research in Computer Security (ESORICS) 2022**!
 
 Publications
