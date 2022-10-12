@@ -18,7 +18,7 @@ Research Interests
 - Privacy-preserving Machine Learning
   - Model Extraction Attack
   - Machine Unlearning
-  - Incermental Learning
+  - Incremental Learning
 
 News
 ======
