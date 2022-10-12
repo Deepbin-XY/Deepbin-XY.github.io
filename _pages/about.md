@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Yi Xie (谢意). I am a third-year Ph.D. student at [Xidian University](https://www.xidian.edu.cn/), supervised by [Prof. Xiaofeng Chen](https://web.xidian.edu.cn/xfchen/). I received my bachelor degree in engineering from School of Cyber Engineering, Xidian University in 2019.
+Hi! I am Yi Xie (谢意). I am a fourth-year Ph.D. student at [Xidian University](https://www.xidian.edu.cn/), supervised by [Prof. Xiaofeng Chen](https://web.xidian.edu.cn/xfchen/). I received my bachelor degree in engineering from School of Cyber Engineering, Xidian University in 2019.
 
 
 
@@ -16,11 +16,14 @@ Research Interests
 ======
 
 - Privacy-preserving Machine Learning
-  - Model extraction attack
+  - Model Extraction Attack
+  - Machine Unlearning
+  - Incermental Learning
 
 News
 ======
- - **[July 23, 2022]** Our work "GAME: Generative-Based Adaptive Model Extraction Attack" got accepted for ESCORICS 2022!
+ - **[September, 2022]** Became a visiting PhD of Nanyang Technological University, supervised by [Prof. Tianwie Zhang](https://personal.ntu.edu.sg/tianwei.zhang/index.html).
+ - **[July, 2022]** One paper accepted by **the 27th European Symposium on Research in Computer Security (ESORICS) 2022**!
 
 Publications
 ------
