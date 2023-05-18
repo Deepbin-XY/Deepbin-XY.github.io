@@ -22,8 +22,9 @@ Research Interests
 
 News
 ======
+ - **[May. 2023]** One paper accepted by **the 18th ACM ASIA Conference on Computer and Communications Security (ACM ASIACCS 2023)**!
  - **[Sep. 2022]** Became a visiting PhD of Nanyang Technological University, supervised by [Prof. Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/index.html).
- - **[Jul. 2022]** One paper accepted by **the 27th European Symposium on Research in Computer Security (ESORICS) 2022**!
+ - **[Jul. 2022]** One paper accepted by **the 27th European Symposium on Research in Computer Security (ESORICS 2022)**!
 
 Publications
 ------
