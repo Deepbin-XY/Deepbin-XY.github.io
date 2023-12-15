@@ -22,10 +22,13 @@ Research Interests
 
 News
 ======
+ - **[May. 2023]** One paper accepted by **the 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024)**!
  - **[May. 2023]** One paper accepted by **the 18th ACM ASIA Conference on Computer and Communications Security (ACM ASIACCS 2023)**!
  - **[Sep. 2022]** Became a visiting PhD of Nanyang Technological University, supervised by [Prof. Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/index.html).
  - **[Jul. 2022]** One paper accepted by **the 27th European Symposium on Research in Computer Security (ESORICS 2022)**!
 
 Publications
 ------
- - Yi Xie, Mengdie Huang, Xiaoyu Zhang, Changyu Dong, Willy Susilo, Xiaofeng Chen, "GAME: Generative-Based Adaptive Model Extraction Attack". In *Proceedings of the European symposium on research in computer security 2022* (**ESORICS 2022**).
+ - **Yi Xie**, Jie Zhang, Shiqian Zhao, Tianwei Zhang, Xiaofeng Chen, "SAME: Sample Reconstruction Against Model Extraction Attacks". In *Proceedings of the 38th Annual AAAI Conference on Artificial Intelligence* (**AAAI 2024**).
+ - [Mengdie Huang](https://mengdiehuang.github.io/), **Yi Xie**, Xiaofeng Chen, Jin Li, Changyu Dong, Zheli Liu, Willy Susilo, "Boost Off/On-Manifold Adversarial Robustness for Deep Learning with Latent Representation Mixup". In *Proceedings of the 18th ACM Asia Conference on Computer and Communications Security* (**AsiaCCS 2023**).
+ - **Yi Xie**, [Mengdie Huang](https://mengdiehuang.github.io/), Xiaoyu Zhang, Changyu Dong, Willy Susilo, Xiaofeng Chen, "GAME: Generative-Based Adaptive Model Extraction Attack". In *Proceedings of the European symposium on research in computer security 2022* (**ESORICS 2022**).
